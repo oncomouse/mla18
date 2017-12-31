@@ -13,6 +13,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "wdm", "~> 0.1", platforms: [:mswin, :mingw]
 
 source "https://rails-assets.org" do
-    gem "rails-assets-cutestrap"
 	gem "rails-assets-tachyons-sass"
 end
