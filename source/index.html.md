@@ -9,6 +9,10 @@ description: |
 ## Tonight's Outline
 {:.lh-title}
 
+The goal of tonight's event is to help you. We want to answer your questions about information security: how should I be securing my data? Should I be worried? What are best practices? Where can I learn more?
+
+We will go over the basics of information security, including what it is and how encryption, the main tool of information security, works. We will also talk about practical approaches to analyzing how much security you may need. After that, we plan to turn it over to your questions, concerns, and ideas.
+
 1. What is Information Security?
 	* What is Encryption?
 1. Why Should *I* Care?
