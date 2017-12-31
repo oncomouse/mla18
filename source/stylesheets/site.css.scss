@@ -1,6 +1,18 @@
 @import "tachyons";
+html {
+	font-family: et-book;
+}
 a {
 	@extend .blue;
 	@extend .no-underline;
 	@extend .underline-hover;
+}
+code {
+	@extend .f5;
+}
+@media #{$breakpoint-not-small}{
+	.tufte-body {
+		padding-left: 12.5%;
+		width: 87.5%
+	}
 }
