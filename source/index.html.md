@@ -4,7 +4,7 @@ description: |
   This site is a guide for anyone interested in using better information security practices in your work as an academic. Specifically created in support of a workshop at MLA 2018 in NYC.
 ---
 # <small class="pl4">MLA 18</small> <br> Commonsense Information Security for Academics
-{:.lh-title}
+{:.lh-solid.mb5-ns.mb3}
 
 ## Tonight's Outline
 {:.lh-title}
