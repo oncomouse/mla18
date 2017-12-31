@@ -64,6 +64,21 @@ The big thing to remember about information security: the only truly secure info
 Security is all about what you are willing to give up and what you are willing to gain. With that in mind, this list of resources is ordered from easy changes that we should all probably adopt up to things that are a bit more complicated and specialized. However, all of the categories here contain tools that can benefit us.
 {:.pl4-ns}
 
+### Basic Steps
+
+Here are a few first steps to take in securing your data:
+{:.pl4-ns}
+
+1. Keep everything up-to-date!
+	* Make sure you have loaded all the security updates and keep apps patched
+	* [However, High Sierra, the new version of macOS has some TERRIFYING security vulnerabilities](https://www.wired.com/story/macos-update-undoes-apple-root-bug-patch/)
+	* Don't use Windows XP or old versions of Internet Explorer
+2. Turn off macros in MS Office
+3. Be careful opening email attachments, especially from people you don't know
+	* Suspicious attachments (PDFs, Word Docs, etc) can be opened first on Google Drive
+	* Many universities have attachment scanners, which is helpful
+{:.pl5-ns}
+
 ### Browser Extensions
 
 **Definition:** A browser extension adds functionality to your web browser beyond the basics. There are several that help protect your privacy online. They are a good first step in the world of information security.
@@ -141,6 +156,15 @@ Most of us are more likely to find ourselves in **#1** than in **#2**; however, 
 * [Virtual Private Network at TAMU](http://it.tamu.edu/Network_and_Internet_Access/Virtual_Private_Networks/Virtual_Private_Network_VPN/index.php)
 	- An example of a university VPN
 	- Search your university's website to see if you have access to one!
+{:.pl4-ns}
+
+### Other Tools
+
+* [Signal](https://signal.org/)
+	- Signal is a secure IM client that can be used in place of texting or something like Twitter DM
+	- It is audited and considered to be as secure a tool as it can be
+	- Signal is widely recommended for use in place of texting if you plan on doing any activist work
+{:.pl4-ns}
 
 ### Further Reading
 {:.lh-title}
