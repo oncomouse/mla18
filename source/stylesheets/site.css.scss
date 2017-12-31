@@ -1,7 +1,5 @@
+$serif: et-book;
 @import "tachyons";
-html {
-	font-family: et-book;
-}
 a {
 	@extend .blue;
 	@extend .no-underline;
