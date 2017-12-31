@@ -4,8 +4,8 @@
 activate :autoprefixer do |prefix|
 	prefix.browsers = "last 2 versions"
 end
-#activate :compass
-activate :livereload
+
+activate :livereload, host: "0.0.0.0"
 activate :sprockets
 
 set :markdown_engine, :kramdown
@@ -15,6 +15,7 @@ set :markdown, :fenced_code_blocks => true,
                :footnotes => true,
                :superscript => true
 
+# GH Pages Support:
 set :build_dir, "docs"
 
 if defined? RailsAssets
