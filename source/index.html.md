@@ -7,7 +7,7 @@ description: |
 {:.lh-solid.mb5-ns.mb3}
 
 ## Tonight's Outline
-{:.lh-title.i}
+{:.lh-title.i.pt3}
 
 The goal of tonight's event is to help you. We want to answer your questions about information security: how should I be securing my data? Should I be worried? What are best practices? Where can I learn more?
 {:.measure}
@@ -25,7 +25,7 @@ We will go over the basics of information security, including what it is and how
 {:.measure}
 
 ## Encryption
-{:.lh-title.i}
+{:.lh-title.i.pt3}
 
 Encryption is the process of transforming a message that anyone can read (called "plaintext") into one that only people with certain tools can read (called "ciphertext"). An old example (used a lot in spy movies) is a book code. In a book code, you and I agree to communicate securely and decided on a particular edition of a very long book (often the Bible) to use as a message "key". Instead of sending each other the words of our messages, we could send numbers that represent a page number and the particular word on that page that was in the plain text (so if I wanted to encrypt the word "tomorrow," I would find "tomorrow" in my key text; say it is the 55th word on page 243. I could send you "`243,55`" in place of "tomorrow" and, using your copy of the key, you would go to the 243rd page, find the 55th word, and then know I was saying "tomorrow"). We would have to keep our book's secure; if anyone else knew what edition of the Bible we were using as a key, they could read our messages.
 {:.measure}
@@ -37,7 +37,7 @@ However, the original designers of the Internet were not prepared for the degree
 {:.measure}
 
 ## Threat Modeling
-{:.lh-title.i}
+{:.lh-title.i.pt3}
 
 Information security starts with a practice known as "threat modeling," that asks each of us to ask five questions to better understand how much threat we are under and what responses these threats might necessitate.
 {:.measure}
@@ -61,7 +61,7 @@ The big thing to remember about information security: the only truly secure info
 * [EFF Handout on Threat Modeling](https://sec.eff.org/uploads/upload/file/15/Threat_modeling_handout.pdf)
 
 ## Resources
-{:.lh-title.i}
+{:.lh-title.i.pt3}
 
 Security is all about what you are willing to give up and what you are willing to gain. With that in mind, this list of resources is ordered from easy changes that we should all probably adopt up to things that are a bit more complicated and specialized. However, all of the categories here contain tools that can benefit us.
 {:.measure}
@@ -175,8 +175,8 @@ Most of us are more likely to find ourselves in **#1** than in **#2**; however, 
 	- Specifically, Signal is recommended for use if you attend protests, as the police are more than likely monitoring SMS traffic
 {:.measure}
 
-### Further Reading
-{:.lh-title.i}
+## Further Reading
+{:.lh-title.i.pt3}
 
 * [*Vice Guide to Not Getting Hacked*](https://motherboard.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
 	- A lot of ideas for this event came from this guide. It's *very* thorough.
