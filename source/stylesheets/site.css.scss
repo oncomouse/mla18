@@ -3,7 +3,10 @@ $sans-serif: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 // Full Tufte:
 $white: #fffff8;
 $black: #111;
+//$measure: 55%;
+//$measure-list-indent: 5%;
 @import "tachyons";
+$measure-list-indent: $measure / 20;
 a {
 	//@extend .blue;
 	@extend .black;
@@ -21,6 +24,13 @@ a {
 }
 code {
 	@extend .f5;
+}
+// Handle list padding for things sized with .measure
+ol.measure,
+ul.measure,
+dl.measure {
+	width: $measure - $measure-list-indent;
+	padding-left: $measure-list-indent;
 }
 @media #{$breakpoint-not-small}{
 	.tufte-body {
