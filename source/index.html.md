@@ -79,7 +79,7 @@ Here are a few first steps to take in securing your data:
 2. [Turn off macros in MS Office](https://support.office.com/en-us/article/Enable-or-disable-macros-in-Office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
 3. Be careful opening email attachments, especially from people you don't know
 	* Suspicious attachments (PDFs, Word Docs, etc) can be opened first on Google Drive
-	* Many universities have attachment scanners, which is helpful
+	* Many universities have attachment scanners, which are helpful
 {:.measure}
 
 ### Browser Extensions
